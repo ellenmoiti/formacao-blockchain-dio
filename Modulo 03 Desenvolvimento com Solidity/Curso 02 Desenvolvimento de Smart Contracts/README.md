@@ -1,7 +1,6 @@
 # Criação de Token no Padrão ERC-20
 
-## Implementação
-  ### Tecnologias ultilizadas:
+## Tecnologias utilizadas:
 - Solidity
 - Truffle
 - Ganache
@@ -28,7 +27,7 @@
   
  
 - Remix
-  - Abra a aba Deployt & Run Transactions
+  - Abra a aba Deploy & Run Transactions
   - Environment -> Injected Provider - Metamask
   - No pop-up, clique Connect
     
@@ -37,15 +36,16 @@
 Agora, vamos criar o nosso contrato
 
 - Remix:
-  - Projetos -> Contracts -> New File -> Nomeie o seu projeto. Ex.: "DIOCoin.sol"
-  - 
+  - Vá na aba Projetos -> Contracts -> New File -> Nomeie o seu projeto. Ex.: "DIOCoin.sol"
+  - Utilize o código disponível em "Modulo 03 Desenvolvimento com Solidity/Curso 02 Desenvolvimento de Smart Contracts/Criando a sua primeira criptomoeda da Rede Ethereum/DIOToken.sol" como base.
+  - Compile o código.
+  - Na aba Deploy & Run Transactions, selecione o contrato criado e clique em deploy
+  - No pop-up será aberto, verfique as informações e confirme
+  - No Ganache, é possível ver que a transação foi minerada e o contrato, criado.
+  - Conecte a conta ao Metamask seguindo o passo 1, caso esteja usando uma conta diferente.
+    
 
 
-## Publicação
-
-
-
-## Recebimento e Envio de Transações
 
 
 
