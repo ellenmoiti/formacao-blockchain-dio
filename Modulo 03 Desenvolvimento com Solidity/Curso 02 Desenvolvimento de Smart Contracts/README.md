@@ -37,6 +37,7 @@
 Agora, vamos criar o nosso contrato
 
 - Remix:
+  - Projetos -> Contracts -> New File -> Nomeie o seu projeto. Ex.: "DIOCoin.sol"
   - 
 
 
